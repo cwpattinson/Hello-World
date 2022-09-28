@@ -2,7 +2,7 @@
 **Hello World**
 
 ## Description
-*Sample Hello World for BAIS:3050
+*Sample Hello World for BAIS:3050*
 
 ## How to Run Program
 Use the files listed below:
@@ -15,7 +15,7 @@ Use the files listed below:
 All the ones listed above! 😆
 
 ## Additional Documentation
-==No== additional documentation.
+==highlight== No additional documentation.
 
 ## Versioning
 Major changes made after 9/27/2022
