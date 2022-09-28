@@ -2,13 +2,14 @@
 **Hello World**
 
 ## Description
-===*Sample Hello World for BAIS:3050*===
+*Sample Hello World for ==BAIS:3050==*
 
 ## How to Run Program
 Use the files listed below:
-Hello_World/
-└── 
-    │── README.md │── data.R │── ProPrep.csv │── ListOfNames.html
+1. README.md 
+2. data.R
+3. ProPrep.csv
+4. ListOfNames.html
 
 ## Files Used
 All the ones listed above! 😆
