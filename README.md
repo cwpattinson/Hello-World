@@ -15,7 +15,7 @@ Use the files listed below:
 All the ones listed above! 😆
 
 ## Additional Documentation
-==No additional documentation==.
+==No== additional documentation.
 
 ## Versioning
 Major changes made after 9/27/2022
