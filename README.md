@@ -2,7 +2,7 @@
 **Hello World**
 
 ## Description
-*Sample Hello World for ===BAIS:3050===*
+===*Sample Hello World for BAIS:3050*===
 
 ## How to Run Program
 Use the files listed below:
