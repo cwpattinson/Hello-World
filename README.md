@@ -5,7 +5,7 @@
 *Sample Hello World for BAIS:3050*
 
 ## How to Run Program
-Use the files listed below:
+Run the files listed below:
 1. README.md 
 2. data.R
 3. ProPrep.csv
